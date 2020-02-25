@@ -1,0 +1,14 @@
+You'll need to setup a GitHub account. If you use your @oberlin.edu email, make sure your username is somewhat appropriate if you plan on taking 241.
+
+MacOS
+If you dont have it already, just go to Terminal and type "git" and click enter.
+
+Windows
+
+Go to https://git-scm.com/download/win The download should start on its own. This isn't actually Git, its called Git for Windows. You can find out more GFW at gitforwindows.org. 
+
+To clone the repository for OWLS, direct yourself to where you want the repo folder to go on your command prompt and then type "git clone https://github.com/RobKlock/151owls ". The repository folder should appear.  
+
+Reach out to Emily or I if you have other issues.
+
+Source: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
